@@ -18,4 +18,4 @@ This project provides two Python scripts for message encryption and decryption. 
 
 1. Clone the repository or download the files:
    ```bash
-   git clone https://github.com/AlejandroMeyer/Message-Encoder.git
+   [git clone https://github.com/AlejandroMeyer/Message-Encoder.git]
